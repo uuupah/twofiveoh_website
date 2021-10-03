@@ -7,16 +7,13 @@
 	.st1{fill:#333333;}
 </style>
 <g>
-	<rect x="0.5" y="0.5" class="st0" width="2999" height="2999"/>
-	<path d="M2999,1v2998H1V1H2999 M3000,0H0v3000h3000V0L3000,0z"/>
+	<rect class="st0" width="3000" height="3000"/>
 </g>
 <g>
-	<rect x="100.5" y="100.5" class="st1" width="2799" height="2799"/>
-	<path d="M2899,101v2798H101V101H2899 M2900,100H100v2800h2800V100L2900,100z"/>
+	<rect x="100" y="100" class="st1" width="2800" height="2800"/>
 </g>
 <g>
-	<rect x="200.5" y="200.5" class="st0" width="2599" height="2599"/>
-	<path d="M2799,201v2598H201V201H2799 M2800,200H200v2600h2600V200L2800,200z"/>
+	<rect x="200" y="200" class="st0" width="2600" height="2600"/>
 </g>
 <g>
 	<path class="st1" d="M554.5,466.4H334.6V339.5h590v127.9h-218v562.9H554.5V466.4z"/>
