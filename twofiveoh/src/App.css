@@ -10,6 +10,14 @@
   min-width: 250px;
   /* min-height: 100%; */
   background-color: #ccc;
+  padding: 20px;
+}
+
+.poster {
+  width: 157.5px;
+  height: 210px;
+  border-radius: 10px;
+  object-fit: cover;
 }
 
 .episodelist {
@@ -27,5 +35,24 @@
   flex: 0 0;
   width: 1000px;
   min-height: 250px;
+  /* padding:  */
   background-color: #ccc;
+  position: relative;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.tfoindex {
+  position: absolute;
+  width: 100%;
+  text-align: right;
+  right: 20px;
+  top: 10px;
+  font-size: 250px;
+  line-height: 240px;
+  color: #bbb;
+  overflow: hidden;
+  /* margin: -20px; */
+  /* margin-right: 20px;2 */
 }

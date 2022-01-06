@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
+import { ReactComponent as TfoLogo } from "./assets/logo2.svg";
 
 // function App() {`
 //   return (
@@ -24,17 +25,30 @@ import React from "react";
 // }`
 
 function Header(props) {
-  return <div className="header">test</div>;
+  return (
+    <div className="header">
+      <TfoLogo width="250px" />
+    </div>
+  );
 }
 
 function Episodelist(props) {
   return (
     <div className="episodelist">
-      <div className="episode">1</div>
-      <div className="episode">2</div>
-      <div className="episode">3</div>
-      <div className="episode">4</div>
-      <div className="episode">5</div>
+      <Episode tfoindex={"150"} />
+      <Episode tfoindex={"149"} />
+      <Episode tfoindex={"148"} />
+      <Episode tfoindex={"147"} />
+      <Episode tfoindex={"146"} />
+    </div>
+  );
+}
+
+function Episode(props) {
+  return (
+    <div className="episode">
+      <span className="tfoindex">{props.tfoindex}</span>
+      <img src="https://m.media-amazon.com/images/M/MV5BZWM1MTdhM2YtNjgwZS00YjQ3LTk3NTQtMzQ1NDE3YzZlODFlXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg" className="poster"/>
     </div>
   );
 }
