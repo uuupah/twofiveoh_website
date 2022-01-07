@@ -18,6 +18,7 @@
   height: 210px;
   border-radius: 10px;
   object-fit: cover;
+  background-color: #bbb;
 }
 
 .episodelist {

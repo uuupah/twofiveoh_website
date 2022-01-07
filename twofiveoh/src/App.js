@@ -1,28 +1,9 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
 import { ReactComponent as TfoLogo } from "./assets/logo2.svg";
 
-// function App() {`
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Edit <code>src/App.js</code> and save to reload.
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }`
+let epdata = require("./data/list.json");
 
 function Header(props) {
   return (
@@ -35,20 +16,28 @@ function Header(props) {
 function Episodelist(props) {
   return (
     <div className="episodelist">
-      <Episode tfoindex={"150"} />
-      <Episode tfoindex={"149"} />
-      <Episode tfoindex={"148"} />
-      <Episode tfoindex={"147"} />
-      <Episode tfoindex={"146"} />
+      {epdata.map((ep) => (
+        <Episode
+          epindex={ep.epindex}
+          tfoindex={ep.tfoindex}
+          imdbid={ep.imdbid}
+          coverurl={ep.coverurl}
+          title={ep.title}
+          releasedate={ep.releasedate}
+          rating={ep.rating}
+          plotoutline={ep.plotoutline}
+        />
+      ))}
     </div>
   );
 }
 
+// TODO make poster image fade in on load
 function Episode(props) {
   return (
     <div className="episode">
       <span className="tfoindex">{props.tfoindex}</span>
-      <img src="https://m.media-amazon.com/images/M/MV5BZWM1MTdhM2YtNjgwZS00YjQ3LTk3NTQtMzQ1NDE3YzZlODFlXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg" className="poster"/>
+      <img src={props.coverurl} className="poster" />
     </div>
   );
 }
