@@ -1,9 +1,9 @@
 // import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
-import { ReactComponent as TfoLogo } from "./assets/logo2.svg";
-import { ReactComponent as StarSVG } from "./assets/star.svg";
-import { ReactComponent as IMDBSVG } from "./assets/imdb.svg";
+import { ReactComponent as TfoLogo } from "./assets/svg/logo2.svg";
+import { ReactComponent as StarSVG } from "./assets/svg/star.svg";
+import { ReactComponent as IMDBSVG } from "./assets/svg/imdb.svg";
 
 let epdata = require("./data/list.json");
 

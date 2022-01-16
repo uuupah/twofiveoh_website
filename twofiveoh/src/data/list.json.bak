@@ -2,7 +2,7 @@
   {
     "epindex": "001",
     "tfoindex": "250",
-    "imdbid": "338564",
+    "imdbid": "0338564",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZWM1MTdhM2YtNjgwZS00YjQ3LTk3NTQtMzQ1NDE3YzZlODFlXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SY300_CR8,0,202,300_.jpg",
     "title": "Infernal Affairs",
     "releasedate": "2004",
@@ -12,7 +12,7 @@
   {
     "epindex": "002",
     "tfoindex": "249",
-    "imdbid": "92067",
+    "imdbid": "0092067",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Castle in the Sky",
     "releasedate": "1992",
@@ -32,7 +32,7 @@
   {
     "epindex": "004",
     "tfoindex": "247",
-    "imdbid": "58946",
+    "imdbid": "0058946",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY300_CR3,0,202,300_.jpg",
     "title": "The Battle of Algiers",
     "releasedate": "1966",
@@ -42,7 +42,7 @@
   {
     "epindex": "005",
     "tfoindex": "246",
-    "imdbid": "103639",
+    "imdbid": "0103639",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Aladdin",
     "releasedate": "1993",
@@ -51,8 +51,8 @@
   },
   {
     "epindex": "005.5",
-    "tfoindex": "b1",
-    "imdbid": "381061",
+    "tfoindex": "B1",
+    "imdbid": "0381061",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Casino Royale",
     "releasedate": "2006",
@@ -62,7 +62,7 @@
   {
     "epindex": "006",
     "tfoindex": "245",
-    "imdbid": "87884",
+    "imdbid": "0087884",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Paris, Texas",
     "releasedate": "1985",
@@ -72,7 +72,7 @@
   {
     "epindex": "007",
     "tfoindex": "244",
-    "imdbid": "94625",
+    "imdbid": "0094625",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Akira",
     "releasedate": "1988",
@@ -82,7 +82,7 @@
   {
     "epindex": "008",
     "tfoindex": "243",
-    "imdbid": "88247",
+    "imdbid": "0088247",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Terminator",
     "releasedate": "1984",
@@ -92,7 +92,7 @@
   {
     "epindex": "009",
     "tfoindex": "242",
-    "imdbid": "64115",
+    "imdbid": "0064115",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Butch Cassidy and the Sundance Kid",
     "releasedate": "1970",
@@ -111,7 +111,7 @@
   },
   {
     "epindex": "010.5",
-    "tfoindex": "b2",
+    "tfoindex": "B2",
     "imdbid": "4686844",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTcxMDc1NjcyNl5BMl5BanBnXkFtZTgwNDU0NDYxMzI@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Death of Stalin",
@@ -122,7 +122,7 @@
   {
     "epindex": "011",
     "tfoindex": "240",
-    "imdbid": "118694",
+    "imdbid": "0118694",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "In the Mood for Love",
     "releasedate": "2001",
@@ -142,7 +142,7 @@
   {
     "epindex": "013",
     "tfoindex": "238",
-    "imdbid": "381681",
+    "imdbid": "0381681",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Before Sunset",
     "releasedate": "2004",
@@ -152,7 +152,7 @@
   {
     "epindex": "014",
     "tfoindex": "237",
-    "imdbid": "93779",
+    "imdbid": "0093779",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Princess Bride",
     "releasedate": "1987",
@@ -171,7 +171,7 @@
   },
   {
     "epindex": "015.5",
-    "tfoindex": "b3",
+    "tfoindex": "B3",
     "imdbid": "6998518",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Mandy",
@@ -182,7 +182,7 @@
   {
     "epindex": "016",
     "tfoindex": "235",
-    "imdbid": "169102",
+    "imdbid": "0169102",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Lagaan: Once Upon a Time in India",
     "releasedate": "2001",
@@ -192,7 +192,7 @@
   {
     "epindex": "017",
     "tfoindex": "234",
-    "imdbid": "113247",
+    "imdbid": "0113247",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "La Haine",
     "releasedate": "1996",
@@ -202,7 +202,7 @@
   {
     "epindex": "018",
     "tfoindex": "233",
-    "imdbid": "25316",
+    "imdbid": "0025316",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "It Happened One Night",
     "releasedate": "1934",
@@ -222,7 +222,7 @@
   {
     "epindex": "020",
     "tfoindex": "231",
-    "imdbid": "198781",
+    "imdbid": "0198781",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Monsters, Inc.",
     "releasedate": "2001",
@@ -231,7 +231,7 @@
   },
   {
     "epindex": "020.5",
-    "tfoindex": "b4",
+    "tfoindex": "B4",
     "imdbid": "4912910",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Mission: Impossible - Fallout",
@@ -252,7 +252,7 @@
   {
     "epindex": "022",
     "tfoindex": "229",
-    "imdbid": "42041",
+    "imdbid": "0042041",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZmI5NTA3MjItYzdhMi00MWMxLTg3OWMtYWQyYjg5MTFmM2U0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "White Heat",
     "releasedate": "1951",
@@ -262,7 +262,7 @@
   {
     "epindex": "023",
     "tfoindex": "228",
-    "imdbid": "43338",
+    "imdbid": "0043338",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDUzZjlhZTYtN2E5MS00ODQ3LWI1ZjgtNzdiZmI0NTZiZTljXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Ace in the Hole",
     "releasedate": "1951",
@@ -272,7 +272,7 @@
   {
     "epindex": "024",
     "tfoindex": "227",
-    "imdbid": "75148",
+    "imdbid": "0075148",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Rocky",
     "releasedate": "1977",
@@ -282,7 +282,7 @@
   {
     "epindex": "025",
     "tfoindex": "226",
-    "imdbid": "32976",
+    "imdbid": "0032976",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Rebecca",
     "releasedate": "1940",
@@ -291,7 +291,7 @@
   },
   {
     "epindex": "025.5",
-    "tfoindex": "b5",
+    "tfoindex": "B5",
     "imdbid": "8946378",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Knives Out",
@@ -302,7 +302,7 @@
   {
     "epindex": "026",
     "tfoindex": "225",
-    "imdbid": "40725",
+    "imdbid": "0040725",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOWRmNGEwZjUtZjEwNS00OGZmLThhMmEtZTJlMTU5MGQ3ZWUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Red Shoes",
     "releasedate": "1949",
@@ -322,7 +322,7 @@
   {
     "epindex": "028",
     "tfoindex": "223",
-    "imdbid": "97165",
+    "imdbid": "0097165",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Dead Poets Society",
     "releasedate": "1989",
@@ -332,7 +332,7 @@
   {
     "epindex": "029",
     "tfoindex": "222",
-    "imdbid": "245712",
+    "imdbid": "0245712",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_SY300_CR5,0,202,300_.jpg",
     "title": "Amores perros",
     "releasedate": "2001",
@@ -342,7 +342,7 @@
   {
     "epindex": "030",
     "tfoindex": "221",
-    "imdbid": "395169",
+    "imdbid": "0395169",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Hotel Rwanda",
     "releasedate": "2005",
@@ -351,8 +351,8 @@
   },
   {
     "epindex": "030.5",
-    "tfoindex": "b6",
-    "imdbid": "446029",
+    "tfoindex": "B6",
+    "imdbid": "0446029",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYWQ2OGIyZTgtZmY5MC00NzY3LTg5NDYtMjdkZjgxZmFhZTMzXkEyXkFqcGdeQXVyOTA3ODI3NDA@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Scott Pilgrim vs. the World",
     "releasedate": "2010",
@@ -372,7 +372,7 @@
   {
     "epindex": "032",
     "tfoindex": "219",
-    "imdbid": "53198",
+    "imdbid": "0053198",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR6,0,202,300_.jpg",
     "title": "The 400 Blows",
     "releasedate": "1959",
@@ -382,7 +382,7 @@
   {
     "epindex": "033",
     "tfoindex": "218",
-    "imdbid": "87544",
+    "imdbid": "0087544",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Nausica\u00e4 of the Valley of the Wind",
     "releasedate": "1988",
@@ -392,7 +392,7 @@
   {
     "epindex": "034",
     "tfoindex": "217",
-    "imdbid": "52618",
+    "imdbid": "0052618",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Ben-Hur",
     "releasedate": "1960",
@@ -402,7 +402,7 @@
   {
     "epindex": "035",
     "tfoindex": "216",
-    "imdbid": "60107",
+    "imdbid": "0060107",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZTgwMjEzMzE5MTE@._V1_SY300_CR4,0,202,300_.jpg",
     "title": "Andrei Rublev",
     "releasedate": "(France)",
@@ -411,8 +411,8 @@
   },
   {
     "epindex": "035.5",
-    "tfoindex": "b7",
-    "imdbid": "780504",
+    "tfoindex": "B7",
+    "imdbid": "0780504",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Drive",
     "releasedate": "2011",
@@ -422,7 +422,7 @@
   {
     "epindex": "036",
     "tfoindex": "215",
-    "imdbid": "405508",
+    "imdbid": "0405508",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Rang De Basanti",
     "releasedate": "2006",
@@ -432,7 +432,7 @@
   {
     "epindex": "037",
     "tfoindex": "214",
-    "imdbid": "405508",
+    "imdbid": "0405508",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Rang De Basanti",
     "releasedate": "2006",
@@ -471,7 +471,7 @@
   },
   {
     "epindex": "040.5",
-    "tfoindex": "b8",
+    "tfoindex": "B8",
     "imdbid": "3416742",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjAwNDA5NzEwM15BMl5BanBnXkFtZTgwMTA1MDUyNDE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "What We Do in the Shadows",
@@ -482,7 +482,7 @@
   {
     "epindex": "041",
     "tfoindex": "210",
-    "imdbid": "405159",
+    "imdbid": "0405159",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Million Dollar Baby",
     "releasedate": "2005",
@@ -492,7 +492,7 @@
   {
     "epindex": "042",
     "tfoindex": "209",
-    "imdbid": "19254",
+    "imdbid": "0019254",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Passion of Joan of Arc",
     "releasedate": "(Germany)",
@@ -502,7 +502,7 @@
   {
     "epindex": "043",
     "tfoindex": "208",
-    "imdbid": "72684",
+    "imdbid": "0072684",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Barry Lyndon",
     "releasedate": "1975",
@@ -512,22 +512,12 @@
   {
     "epindex": "044",
     "tfoindex": "207",
-    "imdbid": "91763",
+    "imdbid": "0091763",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNTU3NzY4ODY5MF5BMl5BanBnXkFtZTcwOTkzNzE1NA@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Platoon",
     "releasedate": "1987",
     "rating": 8.1,
     "plotoutline": "Chris Taylor is a young, naive American who gives up college and volunteers for combat in Vietnam. Upon arrival, he quickly discovers that his presence is quite nonessential, and is considered insignificant to the other soldiers, as he has not fought for as long as the rest of them and felt the effects of combat. Chris has two non-commissioned officers, the ill-tempered and indestructible Staff Sergeant Robert Barnes and the more pleasant and cooperative Sergeant Elias Grodin. A line is drawn between the two NCOs and a number of men in the platoon when an illegal killing occurs during a village raid. As the war continues, Chris himself draws towards psychological meltdown. And as he struggles for survival, he soon realizes he is fighting two battles, the conflict with the enemy and the conflict between the men within his platoon."
-  },
-  {
-    "epindex": "044.1",
-    "tfoindex": "c1",
-    "imdbid": "",
-    "coverurl": "",
-    "title": "anniversary episode 1",
-    "releasedate": "",
-    "rating": "",
-    "plotoutline": "It's been one year of reviewing IMDB's Top 250 Movies of All-Time and Douglas and Jonathan have had a blast! The boys spend their Christmas day reminiscing on a year of hilarity, intrigue and insight into worldwide cinema.A big thank you to all of our listeners that have joined us this year and we hope to see you for the many more years of the podcast to come!"
   },
   {
     "epindex": "045",
@@ -541,7 +531,7 @@
   },
   {
     "epindex": "045.5",
-    "tfoindex": "b9",
+    "tfoindex": "B9",
     "imdbid": "2798920",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Annihilation",
@@ -552,7 +542,7 @@
   {
     "epindex": "046",
     "tfoindex": "205",
-    "imdbid": "79470",
+    "imdbid": "0079470",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Life of Brian",
     "releasedate": "1979",
@@ -562,7 +552,7 @@
   {
     "epindex": "047",
     "tfoindex": "204",
-    "imdbid": "92005",
+    "imdbid": "0092005",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Stand by Me",
     "releasedate": "1987",
@@ -572,7 +562,7 @@
   {
     "epindex": "048",
     "tfoindex": "203",
-    "imdbid": "74958",
+    "imdbid": "0074958",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Network",
     "releasedate": "1977",
@@ -582,7 +572,7 @@
   {
     "epindex": "049",
     "tfoindex": "202",
-    "imdbid": "46268",
+    "imdbid": "0046268",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "The Wages of Fear",
     "releasedate": "1953",
@@ -592,7 +582,7 @@
   {
     "epindex": "050",
     "tfoindex": "201",
-    "imdbid": "758758",
+    "imdbid": "0758758",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Into the Wild",
     "releasedate": "2007",
@@ -601,8 +591,8 @@
   },
   {
     "epindex": "050.5",
-    "tfoindex": "b10",
-    "imdbid": "80339",
+    "tfoindex": "B10",
+    "imdbid": "0080339",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Airplane!",
     "releasedate": "1980",
@@ -622,7 +612,7 @@
   {
     "epindex": "052",
     "tfoindex": "199",
-    "imdbid": "61512",
+    "imdbid": "0061512",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Cool Hand Luke",
     "releasedate": "1967",
@@ -642,7 +632,7 @@
   {
     "epindex": "054",
     "tfoindex": "197",
-    "imdbid": "264464",
+    "imdbid": "0264464",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Catch Me If You Can",
     "releasedate": "2003",
@@ -652,7 +642,7 @@
   {
     "epindex": "055",
     "tfoindex": "196",
-    "imdbid": "112471",
+    "imdbid": "0112471",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Before Sunrise",
     "releasedate": "1995",
@@ -661,7 +651,7 @@
   },
   {
     "epindex": "055.5",
-    "tfoindex": "b11",
+    "tfoindex": "B11",
     "imdbid": "5104604",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZDQwOWQ2NmUtZThjZi00MGM0LTkzNDctMzcyMjcyOGI1OGRkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Isle of Dogs",
@@ -672,7 +662,7 @@
   {
     "epindex": "056",
     "tfoindex": "195",
-    "imdbid": "60827",
+    "imdbid": "0060827",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Persona",
     "releasedate": "1966",
@@ -682,7 +672,7 @@
   {
     "epindex": "057",
     "tfoindex": "194",
-    "imdbid": "15324",
+    "imdbid": "0015324",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Sherlock Jr.",
     "releasedate": "(Canada)",
@@ -702,7 +692,7 @@
   {
     "epindex": "059",
     "tfoindex": "192",
-    "imdbid": "17925",
+    "imdbid": "0017925",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The General",
     "releasedate": "1927",
@@ -712,7 +702,7 @@
   {
     "epindex": "060",
     "tfoindex": "191",
-    "imdbid": "892769",
+    "imdbid": "0892769",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "How to Train Your Dragon",
     "releasedate": "2010",
@@ -721,7 +711,7 @@
   },
   {
     "epindex": "060.5",
-    "tfoindex": "b12",
+    "tfoindex": "B12",
     "imdbid": "1706620",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Snowpiercer",
@@ -732,7 +722,7 @@
   {
     "epindex": "061",
     "tfoindex": "190",
-    "imdbid": "31679",
+    "imdbid": "0031679",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Mr. Smith Goes to Washington",
     "releasedate": "1939",
@@ -742,7 +732,7 @@
   {
     "epindex": "062",
     "tfoindex": "189",
-    "imdbid": "353969",
+    "imdbid": "0353969",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Memories of Murder",
     "releasedate": "2003",
@@ -772,7 +762,7 @@
   {
     "epindex": "065",
     "tfoindex": "186",
-    "imdbid": "107207",
+    "imdbid": "0107207",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "In the Name of the Father",
     "releasedate": "1994",
@@ -781,7 +771,7 @@
   },
   {
     "epindex": "065.5",
-    "tfoindex": "b13",
+    "tfoindex": "B13",
     "imdbid": "6723592",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Tenet",
@@ -792,22 +782,12 @@
   {
     "epindex": "066",
     "tfoindex": "185",
-    "imdbid": "978762",
+    "imdbid": "0978762",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Mary and Max",
     "releasedate": "2009",
     "rating": 8.1,
     "plotoutline": "In the mid-1970's, a homely, friendless Australian girl of 8 picks a name out of a Manhattan phone book and writes to him; she includes a chocolate bar. She's Mary Dinkle, the only child of an alcoholic mother and a distracted father. He's Max Horowitz, an overweight man with Asperger's, living alone in New York. He writes back, with chocolate. Thus begins a 20-year correspondence, interrupted by a stay in an asylum and a few misunderstandings. Mary falls in love with a neighbor, saves money to have a birthmark removed and deals with loss. Max has a friendship with a neighbor, tries to control his weight, and finally gets the dream job. Will the two ever meet face to face?"
-  },
-  {
-    "epindex": "066.1",
-    "tfoindex": "i1",
-    "imdbid": "",
-    "coverurl": "",
-    "title": "bethany whitmore interview",
-    "releasedate": "",
-    "rating": "",
-    "plotoutline": "Seeing how the boys had such a grand time with Mary and Max, Douglas and Jonathan decided to reach out to Bethany Whitmore (who voiced the younger Mary) and see whether she\u2019d be interested on hopping on the podcast for a wuick chat \u2013 and here she is! Star of girl asleep, Mwah & Mental among many other films and tv shows, please enjoy our very first (of hopefully many!) TwoFiveOh Interviews."
   },
   {
     "epindex": "067",
@@ -822,7 +802,7 @@
   {
     "epindex": "068",
     "tfoindex": "183",
-    "imdbid": "118715",
+    "imdbid": "0118715",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Big Lebowski",
     "releasedate": "1998",
@@ -832,7 +812,7 @@
   {
     "epindex": "069",
     "tfoindex": "182",
-    "imdbid": "79944",
+    "imdbid": "0079944",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Stalker",
     "releasedate": "1980",
@@ -842,7 +822,7 @@
   {
     "epindex": "070",
     "tfoindex": "181",
-    "imdbid": "120382",
+    "imdbid": "0120382",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Truman Show",
     "releasedate": "1998",
@@ -851,7 +831,7 @@
   },
   {
     "epindex": "070.5",
-    "tfoindex": "b14",
+    "tfoindex": "B14",
     "imdbid": "6334354",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Suicide Squad",
@@ -862,7 +842,7 @@
   {
     "epindex": "071",
     "tfoindex": "180",
-    "imdbid": "46438",
+    "imdbid": "0046438",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Tokyo Story",
     "releasedate": "1953",
@@ -872,7 +852,7 @@
   {
     "epindex": "072",
     "tfoindex": "179",
-    "imdbid": "77416",
+    "imdbid": "0077416",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Deer Hunter",
     "releasedate": "1979",
@@ -882,7 +862,7 @@
   {
     "epindex": "073",
     "tfoindex": "178",
-    "imdbid": "116231",
+    "imdbid": "0116231",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "The Bandit",
     "releasedate": "1996",
@@ -892,7 +872,7 @@
   {
     "epindex": "074",
     "tfoindex": "177",
-    "imdbid": "266697",
+    "imdbid": "0266697",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Kill Bill: Vol. 1",
     "releasedate": "2003",
@@ -911,7 +891,7 @@
   },
   {
     "epindex": "075.5",
-    "tfoindex": "b15",
+    "tfoindex": "B15",
     "imdbid": "9243804",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Green Knight",
@@ -932,7 +912,7 @@
   {
     "epindex": "077",
     "tfoindex": "174",
-    "imdbid": "116282",
+    "imdbid": "0116282",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Fargo",
     "releasedate": "1996",
@@ -952,7 +932,7 @@
   {
     "epindex": "079",
     "tfoindex": "172",
-    "imdbid": "50986",
+    "imdbid": "0050986",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjJhNTBmNTgtMDViOC00NDY2LWE4N2ItMDJiM2ZiYmQzYzliXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Wild Strawberries",
     "releasedate": "1957",
@@ -962,7 +942,7 @@
   {
     "epindex": "080",
     "tfoindex": "171",
-    "imdbid": "266543",
+    "imdbid": "0266543",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Finding Nemo",
     "releasedate": "2003",
@@ -971,8 +951,8 @@
   },
   {
     "epindex": "080.5",
-    "tfoindex": "b16",
-    "imdbid": "382932",
+    "tfoindex": "B16",
+    "imdbid": "0382932",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Ratatouille",
     "releasedate": "2007",
@@ -982,7 +962,7 @@
   {
     "epindex": "081",
     "tfoindex": "170",
-    "imdbid": "47296",
+    "imdbid": "0047296",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "On the Waterfront",
     "releasedate": "1954",
@@ -992,7 +972,7 @@
   {
     "epindex": "082",
     "tfoindex": "169",
-    "imdbid": "107290",
+    "imdbid": "0107290",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Jurassic Park",
     "releasedate": "1993",
@@ -1002,7 +982,7 @@
   {
     "epindex": "083",
     "tfoindex": "168",
-    "imdbid": "41959",
+    "imdbid": "0041959",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BY2Y3OGIwNTgtYTlmMy00MDg0LWE4MTQtZDE2ODQ3ZThmNGYwXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Third Man",
     "releasedate": "1950",
@@ -1022,7 +1002,7 @@
   {
     "epindex": "085",
     "tfoindex": "166",
-    "imdbid": "50212",
+    "imdbid": "0050212",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Bridge on the River Kwai",
     "releasedate": "1958",
@@ -1031,7 +1011,7 @@
   },
   {
     "epindex": "085.5",
-    "tfoindex": "b17",
+    "tfoindex": "B17",
     "imdbid": "1856101",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Blade Runner 2049",
@@ -1042,7 +1022,7 @@
   {
     "epindex": "086",
     "tfoindex": "165",
-    "imdbid": "31381",
+    "imdbid": "0031381",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Gone with the Wind",
     "releasedate": "1940",
@@ -1050,19 +1030,9 @@
     "plotoutline": "Scarlett is a woman who can deal with a nation at war, Atlanta burning, the Union Army carrying off everything from her beloved Tara, the carpetbaggers who arrive after the war. Scarlett is beautiful. She has vitality. But Ashley, the man she has wanted for so long, is going to marry his placid cousin, Melanie. Mammy warns Scarlett to behave herself at the party at Twelve Oaks. There is a new man there that day, the day the Civil War begins. Rhett Butler. Scarlett does not know he is in the room when she pleads with Ashley to choose her instead of Melanie."
   },
   {
-    "epindex": "086.1",
-    "tfoindex": "c2",
-    "imdbid": "",
-    "coverurl": "",
-    "title": "anniversary episode 2",
-    "releasedate": "",
-    "rating": "",
-    "plotoutline": "It's been two whole years of reviewing IMDB's Top 250 Movies of All-Time for Douglas & Jonathan and gee-willickers has it been another romp this year. The boys spent the days prior to the New Year reflecting on the year of cinema that they watched and look forward toward the year to come!A massive thank you to all of our listeners that have joined us on the journey so far and we hope to see you for the many more years of the podcast to come! Wishing you all the health and happiness for 2022."
-  },
-  {
     "epindex": "087",
     "tfoindex": "164",
-    "imdbid": "84787",
+    "imdbid": "0084787",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Thing",
     "releasedate": "1982",
@@ -1082,7 +1052,7 @@
   {
     "epindex": "089",
     "tfoindex": "162",
-    "imdbid": "167404",
+    "imdbid": "0167404",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Sixth Sense",
     "releasedate": "1999",
@@ -1101,7 +1071,7 @@
   },
   {
     "epindex": "090.5",
-    "tfoindex": "b18",
+    "tfoindex": "B18",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1122,7 +1092,7 @@
   {
     "epindex": "092",
     "tfoindex": "159",
-    "imdbid": "80678",
+    "imdbid": "0080678",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Elephant Man",
     "releasedate": "1981",
@@ -1132,7 +1102,7 @@
   {
     "epindex": "093",
     "tfoindex": "158",
-    "imdbid": "117951",
+    "imdbid": "0117951",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Trainspotting",
     "releasedate": "1996",
@@ -1142,7 +1112,7 @@
   {
     "epindex": "094",
     "tfoindex": "157",
-    "imdbid": "477348",
+    "imdbid": "0477348",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "No Country for Old Men",
     "releasedate": "2007",
@@ -1161,7 +1131,7 @@
   },
   {
     "epindex": "095.5",
-    "tfoindex": "b19",
+    "tfoindex": "B19",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1172,7 +1142,7 @@
   {
     "epindex": "096",
     "tfoindex": "155",
-    "imdbid": "50976",
+    "imdbid": "0050976",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Seventh Seal",
     "releasedate": "1957",
@@ -1192,7 +1162,7 @@
   {
     "epindex": "098",
     "tfoindex": "153",
-    "imdbid": "434409",
+    "imdbid": "0434409",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "V for Vendetta",
     "releasedate": "2006",
@@ -1202,7 +1172,7 @@
   {
     "epindex": "099",
     "tfoindex": "152",
-    "imdbid": "46912",
+    "imdbid": "0046912",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Dial M for Murder",
     "releasedate": "1955",
@@ -1212,7 +1182,7 @@
   {
     "epindex": "100",
     "tfoindex": "151",
-    "imdbid": "469494",
+    "imdbid": "0469494",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "There Will Be Blood",
     "releasedate": "2008",
@@ -1221,7 +1191,7 @@
   },
   {
     "epindex": "100.5",
-    "tfoindex": "b20",
+    "tfoindex": "B20",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1232,7 +1202,7 @@
   {
     "epindex": "101",
     "tfoindex": "150",
-    "imdbid": "15864",
+    "imdbid": "0015864",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY300_CR4,0,202,300_.jpg",
     "title": "The Gold Rush",
     "releasedate": "1926",
@@ -1242,7 +1212,7 @@
   {
     "epindex": "102",
     "tfoindex": "149",
-    "imdbid": "71315",
+    "imdbid": "0071315",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Chinatown",
     "releasedate": "1975",
@@ -1252,7 +1222,7 @@
   {
     "epindex": "103",
     "tfoindex": "148",
-    "imdbid": "476735",
+    "imdbid": "0476735",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "My Father and My Son",
     "releasedate": "2005",
@@ -1272,7 +1242,7 @@
   {
     "epindex": "105",
     "tfoindex": "146",
-    "imdbid": "55031",
+    "imdbid": "0055031",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Judgment at Nuremberg",
     "releasedate": "1961",
@@ -1281,7 +1251,7 @@
   },
   {
     "epindex": "105.5",
-    "tfoindex": "b21",
+    "tfoindex": "B21",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1292,7 +1262,7 @@
   {
     "epindex": "106",
     "tfoindex": "145",
-    "imdbid": "40897",
+    "imdbid": "0040897",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Treasure of the Sierra Madre",
     "releasedate": "1949",
@@ -1302,7 +1272,7 @@
   {
     "epindex": "107",
     "tfoindex": "144",
-    "imdbid": "993846",
+    "imdbid": "0993846",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Wolf of Wall Street",
     "releasedate": "2014",
@@ -1312,7 +1282,7 @@
   {
     "epindex": "108",
     "tfoindex": "143",
-    "imdbid": "120735",
+    "imdbid": "0120735",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Lock, Stock and Two Smoking Barrels",
     "releasedate": "1998",
@@ -1332,7 +1302,7 @@
   {
     "epindex": "110",
     "tfoindex": "141",
-    "imdbid": "81398",
+    "imdbid": "0081398",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Raging Bull",
     "releasedate": "1981",
@@ -1341,7 +1311,7 @@
   },
   {
     "epindex": "110.5",
-    "tfoindex": "b22",
+    "tfoindex": "B22",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1352,7 +1322,7 @@
   {
     "epindex": "111",
     "tfoindex": "140",
-    "imdbid": "457430",
+    "imdbid": "0457430",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzJlMjI2NjEtY2FmNy00ZTE0LWJjYWEtZDg0YmY1ZDBlNmEyXkEyXkFqcGdeQXVyOTI5NTk5NTQ@._V1_SY300_CR10,0,202,300_.jpg",
     "title": "Pan's Labyrinth",
     "releasedate": "2006",
@@ -1362,7 +1332,7 @@
   {
     "epindex": "112",
     "tfoindex": "139",
-    "imdbid": "91251",
+    "imdbid": "0091251",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Come and See",
     "releasedate": "1985",
@@ -1372,7 +1342,7 @@
   {
     "epindex": "113",
     "tfoindex": "138",
-    "imdbid": "112641",
+    "imdbid": "0112641",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Casino",
     "releasedate": "1996",
@@ -1382,7 +1352,7 @@
   {
     "epindex": "114",
     "tfoindex": "137",
-    "imdbid": "42192",
+    "imdbid": "0042192",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "All About Eve",
     "releasedate": "1951",
@@ -1392,7 +1362,7 @@
   {
     "epindex": "115",
     "tfoindex": "136",
-    "imdbid": "268978",
+    "imdbid": "0268978",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_SX202_.jpg",
     "title": "A Beautiful Mind",
     "releasedate": "2002",
@@ -1401,7 +1371,7 @@
   },
   {
     "epindex": "115.5",
-    "tfoindex": "b23",
+    "tfoindex": "B23",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1412,7 +1382,7 @@
   {
     "epindex": "116",
     "tfoindex": "135",
-    "imdbid": "89881",
+    "imdbid": "0089881",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Ran",
     "releasedate": "1986",
@@ -1422,7 +1392,7 @@
   {
     "epindex": "117",
     "tfoindex": "134",
-    "imdbid": "96283",
+    "imdbid": "0096283",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR3,0,202,300_.jpg",
     "title": "My Neighbor Totoro",
     "releasedate": "1991",
@@ -1432,7 +1402,7 @@
   {
     "epindex": "118",
     "tfoindex": "133",
-    "imdbid": "57115",
+    "imdbid": "0057115",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Great Escape",
     "releasedate": "1963",
@@ -1442,7 +1412,7 @@
   {
     "epindex": "119",
     "tfoindex": "132",
-    "imdbid": "347149",
+    "imdbid": "0347149",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Howl's Moving Castle",
     "releasedate": "2005",
@@ -1452,7 +1422,7 @@
   {
     "epindex": "120",
     "tfoindex": "131",
-    "imdbid": "53291",
+    "imdbid": "0053291",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Some Like It Hot",
     "releasedate": "1959",
@@ -1461,7 +1431,7 @@
   },
   {
     "epindex": "120.5",
-    "tfoindex": "b24",
+    "tfoindex": "B24",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1482,7 +1452,7 @@
   {
     "epindex": "122",
     "tfoindex": "129",
-    "imdbid": "118849",
+    "imdbid": "0118849",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Children of Heaven",
     "releasedate": "1999",
@@ -1492,7 +1462,7 @@
   {
     "epindex": "123",
     "tfoindex": "128",
-    "imdbid": "363163",
+    "imdbid": "0363163",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Downfall",
     "releasedate": "2005",
@@ -1512,7 +1482,7 @@
   {
     "epindex": "125",
     "tfoindex": "126",
-    "imdbid": "105695",
+    "imdbid": "0105695",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Unforgiven",
     "releasedate": "1993",
@@ -1521,7 +1491,7 @@
   },
   {
     "epindex": "125.5",
-    "tfoindex": "b25",
+    "tfoindex": "B25",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1532,7 +1502,7 @@
   {
     "epindex": "126",
     "tfoindex": "125",
-    "imdbid": "55630",
+    "imdbid": "0055630",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Yojimbo",
     "releasedate": "1961",
@@ -1542,7 +1512,7 @@
   {
     "epindex": "127",
     "tfoindex": "124",
-    "imdbid": "372784",
+    "imdbid": "0372784",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Batman Begins",
     "releasedate": "2005",
@@ -1552,7 +1522,7 @@
   {
     "epindex": "128",
     "tfoindex": "123",
-    "imdbid": "95016",
+    "imdbid": "0095016",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Die Hard",
     "releasedate": "1988",
@@ -1560,19 +1530,9 @@
     "plotoutline": "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands."
   },
   {
-    "epindex": "128.1",
-    "tfoindex": "c3",
-    "imdbid": "",
-    "coverurl": "",
-    "title": "anniversary episode 3",
-    "releasedate": "",
-    "rating": "",
-    "plotoutline": ""
-  },
-  {
     "epindex": "129",
     "tfoindex": "122",
-    "imdbid": "42876",
+    "imdbid": "0042876",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Rashomon",
     "releasedate": "1950",
@@ -1582,7 +1542,7 @@
   {
     "epindex": "130",
     "tfoindex": "121",
-    "imdbid": "113277",
+    "imdbid": "0113277",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Heat",
     "releasedate": "1996",
@@ -1591,7 +1551,7 @@
   },
   {
     "epindex": "130.5",
-    "tfoindex": "b26",
+    "tfoindex": "B26",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1602,7 +1562,7 @@
   {
     "epindex": "131",
     "tfoindex": "120",
-    "imdbid": "71853",
+    "imdbid": "0071853",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Monty Python and the Holy Grail",
     "releasedate": "1975",
@@ -1612,7 +1572,7 @@
   {
     "epindex": "132",
     "tfoindex": "119",
-    "imdbid": "119488",
+    "imdbid": "0119488",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "L.A. Confidential",
     "releasedate": "1997",
@@ -1642,7 +1602,7 @@
   {
     "epindex": "135",
     "tfoindex": "116",
-    "imdbid": "97576",
+    "imdbid": "0097576",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Indiana Jones and the Last Crusade",
     "releasedate": "1989",
@@ -1651,7 +1611,7 @@
   },
   {
     "epindex": "135.5",
-    "tfoindex": "b27",
+    "tfoindex": "B27",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1662,7 +1622,7 @@
   {
     "epindex": "136",
     "tfoindex": "115",
-    "imdbid": "53604",
+    "imdbid": "0053604",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Apartment",
     "releasedate": "1961",
@@ -1672,7 +1632,7 @@
   {
     "epindex": "137",
     "tfoindex": "114",
-    "imdbid": "56592",
+    "imdbid": "0056592",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "To Kill a Mockingbird",
     "releasedate": "1963",
@@ -1682,7 +1642,7 @@
   {
     "epindex": "138",
     "tfoindex": "113",
-    "imdbid": "44741",
+    "imdbid": "0044741",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Ikiru",
     "releasedate": "1952",
@@ -1692,7 +1652,7 @@
   {
     "epindex": "139",
     "tfoindex": "112",
-    "imdbid": "36775",
+    "imdbid": "0036775",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZGRiNGQ0NzUtZjczMS00ZjIzLWI4NjAtY2ZiNTM2MGQxZGFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Double Indemnity",
     "releasedate": "1944",
@@ -1711,7 +1671,7 @@
   },
   {
     "epindex": "140.5",
-    "tfoindex": "b28",
+    "tfoindex": "B28",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1732,7 +1692,7 @@
   {
     "epindex": "142",
     "tfoindex": "109",
-    "imdbid": "59578",
+    "imdbid": "0059578",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "For a Few Dollars More",
     "releasedate": "1965",
@@ -1742,7 +1702,7 @@
   {
     "epindex": "143",
     "tfoindex": "108",
-    "imdbid": "17136",
+    "imdbid": "0017136",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Metropolis",
     "releasedate": "1927",
@@ -1752,7 +1712,7 @@
   {
     "epindex": "144",
     "tfoindex": "107",
-    "imdbid": "70735",
+    "imdbid": "0070735",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Sting",
     "releasedate": "1974",
@@ -1762,7 +1722,7 @@
   {
     "epindex": "145",
     "tfoindex": "106",
-    "imdbid": "435761",
+    "imdbid": "0435761",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Toy Story 3",
     "releasedate": "2010",
@@ -1771,7 +1731,7 @@
   },
   {
     "epindex": "145.5",
-    "tfoindex": "b29",
+    "tfoindex": "B29",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1782,7 +1742,7 @@
   {
     "epindex": "146",
     "tfoindex": "105",
-    "imdbid": "56172",
+    "imdbid": "0056172",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Lawrence of Arabia",
     "releasedate": "1963",
@@ -1792,7 +1752,7 @@
   {
     "epindex": "147",
     "tfoindex": "104",
-    "imdbid": "75314",
+    "imdbid": "0075314",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Taxi Driver",
     "releasedate": "1976",
@@ -1802,7 +1762,7 @@
   {
     "epindex": "148",
     "tfoindex": "103",
-    "imdbid": "45152",
+    "imdbid": "0045152",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Singin' in the Rain",
     "releasedate": "1952",
@@ -1812,7 +1772,7 @@
   {
     "epindex": "149",
     "tfoindex": "102",
-    "imdbid": "86250",
+    "imdbid": "0086250",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Scarface",
     "releasedate": "1984",
@@ -1822,7 +1782,7 @@
   {
     "epindex": "150",
     "tfoindex": "101",
-    "imdbid": "211915",
+    "imdbid": "0211915",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Am\u00e9lie",
     "releasedate": "2001",
@@ -1831,7 +1791,7 @@
   },
   {
     "epindex": "150.5",
-    "tfoindex": "b30",
+    "tfoindex": "B30",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1842,7 +1802,7 @@
   {
     "epindex": "151",
     "tfoindex": "100",
-    "imdbid": "40522",
+    "imdbid": "0040522",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Bicycle Thieves",
     "releasedate": "1951",
@@ -1852,7 +1812,7 @@
   {
     "epindex": "152",
     "tfoindex": "99",
-    "imdbid": "12349",
+    "imdbid": "0012349",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Kid",
     "releasedate": "(Australia)",
@@ -1862,7 +1822,7 @@
   {
     "epindex": "153",
     "tfoindex": "98",
-    "imdbid": "208092",
+    "imdbid": "0208092",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Snatch",
     "releasedate": "2000",
@@ -1872,7 +1832,7 @@
   {
     "epindex": "154",
     "tfoindex": "97",
-    "imdbid": "66921",
+    "imdbid": "0066921",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "A Clockwork Orange",
     "releasedate": "1972",
@@ -1882,7 +1842,7 @@
   {
     "epindex": "155",
     "tfoindex": "96",
-    "imdbid": "53125",
+    "imdbid": "0053125",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "North by Northwest",
     "releasedate": "1959",
@@ -1891,7 +1851,7 @@
   },
   {
     "epindex": "155.5",
-    "tfoindex": "b31",
+    "tfoindex": "B31",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1902,7 +1862,7 @@
   {
     "epindex": "156",
     "tfoindex": "95",
-    "imdbid": "93058",
+    "imdbid": "0093058",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Full Metal Jacket",
     "releasedate": "1987",
@@ -1922,7 +1882,7 @@
   {
     "epindex": "158",
     "tfoindex": "93",
-    "imdbid": "33467",
+    "imdbid": "0033467",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Citizen Kane",
     "releasedate": "1942",
@@ -1932,7 +1892,7 @@
   {
     "epindex": "159",
     "tfoindex": "92",
-    "imdbid": "338013",
+    "imdbid": "0338013",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Eternal Sunshine of the Spotless Mind",
     "releasedate": "2004",
@@ -1951,7 +1911,7 @@
   },
   {
     "epindex": "160.5",
-    "tfoindex": "b32",
+    "tfoindex": "B32",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -1962,7 +1922,7 @@
   {
     "epindex": "161",
     "tfoindex": "90",
-    "imdbid": "52357",
+    "imdbid": "0052357",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Vertigo",
     "releasedate": "1959",
@@ -1972,7 +1932,7 @@
   {
     "epindex": "162",
     "tfoindex": "89",
-    "imdbid": "180093",
+    "imdbid": "0180093",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Requiem for a Dream",
     "releasedate": "2001",
@@ -1982,7 +1942,7 @@
   {
     "epindex": "163",
     "tfoindex": "88",
-    "imdbid": "62622",
+    "imdbid": "0062622",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "2001: A Space Odyssey",
     "releasedate": "1968",
@@ -1992,7 +1952,7 @@
   {
     "epindex": "164",
     "tfoindex": "87",
-    "imdbid": "22100",
+    "imdbid": "0022100",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "M",
     "releasedate": "1931",
@@ -2002,7 +1962,7 @@
   {
     "epindex": "165",
     "tfoindex": "86",
-    "imdbid": "119217",
+    "imdbid": "0119217",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Good Will Hunting",
     "releasedate": "1998",
@@ -2011,7 +1971,7 @@
   },
   {
     "epindex": "165.5",
-    "tfoindex": "b33",
+    "tfoindex": "B33",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2022,7 +1982,7 @@
   {
     "epindex": "166",
     "tfoindex": "85",
-    "imdbid": "361748",
+    "imdbid": "0361748",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Inglourious Basterds",
     "releasedate": "2009",
@@ -2032,7 +1992,7 @@
   {
     "epindex": "167",
     "tfoindex": "84",
-    "imdbid": "105236",
+    "imdbid": "0105236",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Reservoir Dogs",
     "releasedate": "1993",
@@ -2042,7 +2002,7 @@
   {
     "epindex": "168",
     "tfoindex": "83",
-    "imdbid": "86879",
+    "imdbid": "0086879",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Amadeus",
     "releasedate": "1985",
@@ -2052,7 +2012,7 @@
   {
     "epindex": "169",
     "tfoindex": "82",
-    "imdbid": "114709",
+    "imdbid": "0114709",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Toy Story",
     "releasedate": "1995",
@@ -2062,7 +2022,7 @@
   {
     "epindex": "170",
     "tfoindex": "81",
-    "imdbid": "986264",
+    "imdbid": "0986264",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Like Stars on Earth",
     "releasedate": "2007",
@@ -2071,7 +2031,7 @@
   },
   {
     "epindex": "170.5",
-    "tfoindex": "b34",
+    "tfoindex": "B34",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2080,19 +2040,9 @@
     "plotoutline": ""
   },
   {
-    "epindex": "170.6",
-    "tfoindex": "c4",
-    "imdbid": "",
-    "coverurl": "",
-    "title": "anniversary episode 4",
-    "releasedate": "",
-    "rating": "",
-    "plotoutline": ""
-  },
-  {
     "epindex": "171",
     "tfoindex": "80",
-    "imdbid": "86190",
+    "imdbid": "0086190",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Star Wars: Episode VI - Return of the Jedi",
     "releasedate": "1983",
@@ -2112,7 +2062,7 @@
   {
     "epindex": "173",
     "tfoindex": "78",
-    "imdbid": "82096",
+    "imdbid": "0082096",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Das Boot",
     "releasedate": "1982",
@@ -2122,7 +2072,7 @@
   {
     "epindex": "174",
     "tfoindex": "77",
-    "imdbid": "112573",
+    "imdbid": "0112573",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Braveheart",
     "releasedate": "1995",
@@ -2141,7 +2091,7 @@
   },
   {
     "epindex": "175.5",
-    "tfoindex": "b35",
+    "tfoindex": "B35",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2152,7 +2102,7 @@
   {
     "epindex": "176",
     "tfoindex": "75",
-    "imdbid": "169547",
+    "imdbid": "0169547",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "American Beauty",
     "releasedate": "2000",
@@ -2172,7 +2122,7 @@
   {
     "epindex": "178",
     "tfoindex": "73",
-    "imdbid": "90605",
+    "imdbid": "0090605",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Aliens",
     "releasedate": "1986",
@@ -2182,7 +2132,7 @@
   {
     "epindex": "179",
     "tfoindex": "72",
-    "imdbid": "87843",
+    "imdbid": "0087843",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Once Upon a Time in America",
     "releasedate": "1984",
@@ -2201,7 +2151,7 @@
   },
   {
     "epindex": "180.5",
-    "tfoindex": "b36",
+    "tfoindex": "B36",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2212,7 +2162,7 @@
   {
     "epindex": "181",
     "tfoindex": "70",
-    "imdbid": "51201",
+    "imdbid": "0051201",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZDA4MWNkMTctZDQ0Mi00MTY2LThjYTAtNWM5OTY3NzA4MzIyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Witness for the Prosecution",
     "releasedate": "1958",
@@ -2222,7 +2172,7 @@
   {
     "epindex": "182",
     "tfoindex": "69",
-    "imdbid": "364569",
+    "imdbid": "0364569",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Oldboy",
     "releasedate": "2005",
@@ -2232,7 +2182,7 @@
   {
     "epindex": "183",
     "tfoindex": "68",
-    "imdbid": "57012",
+    "imdbid": "0057012",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "releasedate": "1964",
@@ -2242,7 +2192,7 @@
   {
     "epindex": "184",
     "tfoindex": "67",
-    "imdbid": "119698",
+    "imdbid": "0119698",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Princess Mononoke",
     "releasedate": "2001",
@@ -2252,7 +2202,7 @@
   {
     "epindex": "185",
     "tfoindex": "66",
-    "imdbid": "43014",
+    "imdbid": "0043014",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Sunset Blvd.",
     "releasedate": "1950",
@@ -2261,7 +2211,7 @@
   },
   {
     "epindex": "185.5",
-    "tfoindex": "b37",
+    "tfoindex": "B37",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2272,7 +2222,7 @@
   {
     "epindex": "186",
     "tfoindex": "65",
-    "imdbid": "910970",
+    "imdbid": "0910970",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "WALL\u00b7E",
     "releasedate": "2008",
@@ -2292,7 +2242,7 @@
   {
     "epindex": "188",
     "tfoindex": "63",
-    "imdbid": "50825",
+    "imdbid": "0050825",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY300_CR3,0,202,300_.jpg",
     "title": "Paths of Glory",
     "releasedate": "1958",
@@ -2302,7 +2252,7 @@
   {
     "epindex": "189",
     "tfoindex": "62",
-    "imdbid": "81505",
+    "imdbid": "0081505",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Shining",
     "releasedate": "1980",
@@ -2321,7 +2271,7 @@
   },
   {
     "epindex": "190.5",
-    "tfoindex": "b38",
+    "tfoindex": "B38",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2352,7 +2302,7 @@
   {
     "epindex": "193",
     "tfoindex": "58",
-    "imdbid": "405094",
+    "imdbid": "0405094",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "The Lives of Others",
     "releasedate": "2007",
@@ -2362,7 +2312,7 @@
   {
     "epindex": "194",
     "tfoindex": "57",
-    "imdbid": "32553",
+    "imdbid": "0032553",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Great Dictator",
     "releasedate": "1941",
@@ -2372,7 +2322,7 @@
   {
     "epindex": "195",
     "tfoindex": "56",
-    "imdbid": "209144",
+    "imdbid": "0209144",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Memento",
     "releasedate": "2001",
@@ -2381,7 +2331,7 @@
   },
   {
     "epindex": "195.5",
-    "tfoindex": "b39",
+    "tfoindex": "B39",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2392,7 +2342,7 @@
   {
     "epindex": "196",
     "tfoindex": "55",
-    "imdbid": "78788",
+    "imdbid": "0078788",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Apocalypse Now",
     "releasedate": "1979",
@@ -2402,7 +2352,7 @@
   {
     "epindex": "197",
     "tfoindex": "54",
-    "imdbid": "82971",
+    "imdbid": "0082971",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Indiana Jones and the Raiders of the Lost Ark",
     "releasedate": "1981",
@@ -2412,7 +2362,7 @@
   {
     "epindex": "198",
     "tfoindex": "53",
-    "imdbid": "78748",
+    "imdbid": "0078748",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Alien",
     "releasedate": "1979",
@@ -2422,7 +2372,7 @@
   {
     "epindex": "199",
     "tfoindex": "52",
-    "imdbid": "95765",
+    "imdbid": "0095765",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Cinema Paradiso",
     "releasedate": "1989",
@@ -2432,7 +2382,7 @@
   {
     "epindex": "200",
     "tfoindex": "51",
-    "imdbid": "47396",
+    "imdbid": "0047396",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Rear Window",
     "releasedate": "1955",
@@ -2441,7 +2391,7 @@
   },
   {
     "epindex": "200.5",
-    "tfoindex": "b40",
+    "tfoindex": "B40",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2452,7 +2402,7 @@
   {
     "epindex": "201",
     "tfoindex": "50",
-    "imdbid": "95327",
+    "imdbid": "0095327",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Grave of the Fireflies",
     "releasedate": "1990",
@@ -2462,7 +2412,7 @@
   {
     "epindex": "202",
     "tfoindex": "49",
-    "imdbid": "34583",
+    "imdbid": "0034583",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Casablanca",
     "releasedate": "1944",
@@ -2472,7 +2422,7 @@
   {
     "epindex": "203",
     "tfoindex": "48",
-    "imdbid": "482571",
+    "imdbid": "0482571",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Prestige",
     "releasedate": "2006",
@@ -2482,7 +2432,7 @@
   {
     "epindex": "204",
     "tfoindex": "47",
-    "imdbid": "64116",
+    "imdbid": "0064116",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Once Upon a Time in the West",
     "releasedate": "1970",
@@ -2501,7 +2451,7 @@
   },
   {
     "epindex": "205.5",
-    "tfoindex": "b41",
+    "tfoindex": "B41",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2512,7 +2462,7 @@
   {
     "epindex": "206",
     "tfoindex": "45",
-    "imdbid": "407887",
+    "imdbid": "0407887",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Departed",
     "releasedate": "2006",
@@ -2522,7 +2472,7 @@
   {
     "epindex": "207",
     "tfoindex": "44",
-    "imdbid": "21749",
+    "imdbid": "0021749",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "City Lights",
     "releasedate": "1931",
@@ -2542,7 +2492,7 @@
   {
     "epindex": "209",
     "tfoindex": "42",
-    "imdbid": "172495",
+    "imdbid": "0172495",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Gladiator",
     "releasedate": "2000",
@@ -2552,7 +2502,7 @@
   {
     "epindex": "210",
     "tfoindex": "41",
-    "imdbid": "54215",
+    "imdbid": "0054215",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Psycho",
     "releasedate": "1960",
@@ -2561,7 +2511,7 @@
   },
   {
     "epindex": "210.5",
-    "tfoindex": "b42",
+    "tfoindex": "B42",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2572,7 +2522,7 @@
   {
     "epindex": "211",
     "tfoindex": "40",
-    "imdbid": "27977",
+    "imdbid": "0027977",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Modern Times",
     "releasedate": "1938",
@@ -2582,7 +2532,7 @@
   {
     "epindex": "212",
     "tfoindex": "39",
-    "imdbid": "253474",
+    "imdbid": "0253474",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR4,0,202,300_.jpg",
     "title": "The Pianist",
     "releasedate": "2003",
@@ -2592,7 +2542,7 @@
   {
     "epindex": "213",
     "tfoindex": "38",
-    "imdbid": "103064",
+    "imdbid": "0103064",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Terminator 2: Judgment Day",
     "releasedate": "1991",
@@ -2602,7 +2552,7 @@
   {
     "epindex": "214",
     "tfoindex": "37",
-    "imdbid": "88763",
+    "imdbid": "0088763",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Back to the Future",
     "releasedate": "1985",
@@ -2610,19 +2560,9 @@
     "plotoutline": "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean \"time machine\" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future."
   },
   {
-    "epindex": "214.1",
-    "tfoindex": "c5",
-    "imdbid": "",
-    "coverurl": "",
-    "title": "anniversary episode 5",
-    "releasedate": "",
-    "rating": "",
-    "plotoutline": ""
-  },
-  {
     "epindex": "215",
     "tfoindex": "36",
-    "imdbid": "120586",
+    "imdbid": "0120586",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "American History X",
     "releasedate": "1999",
@@ -2631,7 +2571,7 @@
   },
   {
     "epindex": "215.5",
-    "tfoindex": "b43",
+    "tfoindex": "B43",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2642,7 +2582,7 @@
   {
     "epindex": "216",
     "tfoindex": "35",
-    "imdbid": "110357",
+    "imdbid": "0110357",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Lion King",
     "releasedate": "1994",
@@ -2652,7 +2592,7 @@
   {
     "epindex": "217",
     "tfoindex": "34",
-    "imdbid": "114814",
+    "imdbid": "0114814",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Usual Suspects",
     "releasedate": "1995",
@@ -2662,7 +2602,7 @@
   {
     "epindex": "218",
     "tfoindex": "33",
-    "imdbid": "56058",
+    "imdbid": "0056058",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY300_CR4,0,202,300_.jpg",
     "title": "Hara-Kiri",
     "releasedate": "1962",
@@ -2672,7 +2612,7 @@
   {
     "epindex": "219",
     "tfoindex": "32",
-    "imdbid": "110413",
+    "imdbid": "0110413",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "L\u00e9on: The Professional",
     "releasedate": "1995",
@@ -2682,7 +2622,7 @@
   {
     "epindex": "220",
     "tfoindex": "31",
-    "imdbid": "816692",
+    "imdbid": "0816692",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Interstellar",
     "releasedate": "2014",
@@ -2691,7 +2631,7 @@
   },
   {
     "epindex": "220.5",
-    "tfoindex": "b44",
+    "tfoindex": "B44",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2702,7 +2642,7 @@
   {
     "epindex": "221",
     "tfoindex": "30",
-    "imdbid": "120689",
+    "imdbid": "0120689",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Green Mile",
     "releasedate": "2000",
@@ -2722,7 +2662,7 @@
   {
     "epindex": "223",
     "tfoindex": "28",
-    "imdbid": "245429",
+    "imdbid": "0245429",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Spirited Away",
     "releasedate": "2002",
@@ -2732,7 +2672,7 @@
   {
     "epindex": "224",
     "tfoindex": "27",
-    "imdbid": "120815",
+    "imdbid": "0120815",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "Saving Private Ryan",
     "releasedate": "1998",
@@ -2751,7 +2691,7 @@
   },
   {
     "epindex": "225.5",
-    "tfoindex": "b45",
+    "tfoindex": "B45",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2762,7 +2702,7 @@
   {
     "epindex": "226",
     "tfoindex": "25",
-    "imdbid": "76759",
+    "imdbid": "0076759",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Star Wars: Episode IV - A New Hope",
     "releasedate": "1977",
@@ -2772,7 +2712,7 @@
   {
     "epindex": "227",
     "tfoindex": "24",
-    "imdbid": "38650",
+    "imdbid": "0038650",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "It's a Wonderful Life",
     "releasedate": "1947",
@@ -2782,7 +2722,7 @@
   {
     "epindex": "228",
     "tfoindex": "23",
-    "imdbid": "102926",
+    "imdbid": "0102926",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Silence of the Lambs",
     "releasedate": "1991",
@@ -2792,7 +2732,7 @@
   {
     "epindex": "229",
     "tfoindex": "22",
-    "imdbid": "118799",
+    "imdbid": "0118799",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Life Is Beautiful",
     "releasedate": "1998",
@@ -2802,7 +2742,7 @@
   {
     "epindex": "230",
     "tfoindex": "21",
-    "imdbid": "317248",
+    "imdbid": "0317248",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "City of God",
     "releasedate": "2003",
@@ -2811,7 +2751,7 @@
   },
   {
     "epindex": "230.5",
-    "tfoindex": "b46",
+    "tfoindex": "B46",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2822,7 +2762,7 @@
   {
     "epindex": "231",
     "tfoindex": "20",
-    "imdbid": "114369",
+    "imdbid": "0114369",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Se7en",
     "releasedate": "1995",
@@ -2832,7 +2772,7 @@
   {
     "epindex": "232",
     "tfoindex": "19",
-    "imdbid": "47478",
+    "imdbid": "0047478",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "Seven Samurai",
     "releasedate": "1954",
@@ -2842,7 +2782,7 @@
   {
     "epindex": "233",
     "tfoindex": "18",
-    "imdbid": "73486",
+    "imdbid": "0073486",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "One Flew Over the Cuckoo's Nest",
     "releasedate": "1976",
@@ -2852,7 +2792,7 @@
   {
     "epindex": "234",
     "tfoindex": "17",
-    "imdbid": "99685",
+    "imdbid": "0099685",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Goodfellas",
     "releasedate": "1990",
@@ -2862,7 +2802,7 @@
   {
     "epindex": "235",
     "tfoindex": "16",
-    "imdbid": "133093",
+    "imdbid": "0133093",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Matrix",
     "releasedate": "1999",
@@ -2871,7 +2811,7 @@
   },
   {
     "epindex": "235.5",
-    "tfoindex": "b47",
+    "tfoindex": "B47",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2882,7 +2822,7 @@
   {
     "epindex": "236",
     "tfoindex": "15",
-    "imdbid": "167261",
+    "imdbid": "0167261",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Lord of the Rings: The Two Towers",
     "releasedate": "2002",
@@ -2892,7 +2832,7 @@
   {
     "epindex": "237",
     "tfoindex": "14",
-    "imdbid": "80684",
+    "imdbid": "0080684",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Star Wars: Episode V - The Empire Strikes Back",
     "releasedate": "1980",
@@ -2912,7 +2852,7 @@
   {
     "epindex": "239",
     "tfoindex": "12",
-    "imdbid": "109830",
+    "imdbid": "0109830",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Forrest Gump",
     "releasedate": "1994",
@@ -2922,7 +2862,7 @@
   {
     "epindex": "240",
     "tfoindex": "11",
-    "imdbid": "120737",
+    "imdbid": "0120737",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "releasedate": "2001",
@@ -2931,7 +2871,7 @@
   },
   {
     "epindex": "240.5",
-    "tfoindex": "b48",
+    "tfoindex": "B48",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -2942,7 +2882,7 @@
   {
     "epindex": "241",
     "tfoindex": "10",
-    "imdbid": "137523",
+    "imdbid": "0137523",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Fight Club",
     "releasedate": "1999",
@@ -2952,7 +2892,7 @@
   {
     "epindex": "242",
     "tfoindex": "9",
-    "imdbid": "60196",
+    "imdbid": "0060196",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "The Good, the Bad and the Ugly",
     "releasedate": "1966",
@@ -2962,7 +2902,7 @@
   {
     "epindex": "243",
     "tfoindex": "8",
-    "imdbid": "110912",
+    "imdbid": "0110912",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR1,0,202,300_.jpg",
     "title": "Pulp Fiction",
     "releasedate": "1994",
@@ -2972,7 +2912,7 @@
   {
     "epindex": "244",
     "tfoindex": "7",
-    "imdbid": "167260",
+    "imdbid": "0167260",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Lord of the Rings: The Return of the King",
     "releasedate": "2003",
@@ -2982,7 +2922,7 @@
   {
     "epindex": "245",
     "tfoindex": "6",
-    "imdbid": "108052",
+    "imdbid": "0108052",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "Schindler's List",
     "releasedate": "1994",
@@ -2991,7 +2931,7 @@
   },
   {
     "epindex": "245.5",
-    "tfoindex": "b49",
+    "tfoindex": "B49",
     "imdbid": "",
     "coverurl": "",
     "title": "upcoming bonus episode",
@@ -3002,7 +2942,7 @@
   {
     "epindex": "246",
     "tfoindex": "5",
-    "imdbid": "50083",
+    "imdbid": "0050083",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg",
     "title": "12 Angry Men",
     "releasedate": "1957",
@@ -3012,7 +2952,7 @@
   {
     "epindex": "247",
     "tfoindex": "4",
-    "imdbid": "468569",
+    "imdbid": "0468569",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Dark Knight",
     "releasedate": "2008",
@@ -3022,7 +2962,7 @@
   {
     "epindex": "248",
     "tfoindex": "3",
-    "imdbid": "71562",
+    "imdbid": "0071562",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "The Godfather: Part II",
     "releasedate": "1975",
@@ -3032,7 +2972,7 @@
   {
     "epindex": "249",
     "tfoindex": "2",
-    "imdbid": "68646",
+    "imdbid": "0068646",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR2,0,202,300_.jpg",
     "title": "The Godfather",
     "releasedate": "1972",
@@ -3042,7 +2982,7 @@
   {
     "epindex": "250",
     "tfoindex": "1",
-    "imdbid": "111161",
+    "imdbid": "0111161",
     "coverurl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg",
     "title": "The Shawshank Redemption",
     "releasedate": "1995",
