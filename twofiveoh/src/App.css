@@ -19,6 +19,8 @@
   border-radius: 10px;
   object-fit: cover;
   background-color: #bbb;
+  z-index: 2;
+  position: relative;
 }
 
 .episodelist {
@@ -44,6 +46,42 @@
   box-sizing: border-box;
 }
 
+.episodecontents{
+  z-index: 2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.episodetitle{
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.episodesubtitle{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.episodedesc{
+  font-size: 13px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.svg {
+  top:0.125em;
+  position: relative;
+}
+
 .tfoindex {
   position: absolute;
   width: 100%;
@@ -54,6 +92,7 @@
   line-height: 240px;
   color: #bbb;
   overflow: hidden;
+  z-index: 1;
   /* margin: -20px; */
   /* margin-right: 20px;2 */
 }

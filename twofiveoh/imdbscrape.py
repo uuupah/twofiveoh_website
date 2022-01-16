@@ -43,17 +43,15 @@ with open(file, newline='') as csvfile:
 
             # some movies only have a year or a month and year, so try your best
             # to get the correct year
-            if len(movie.get('original air date')) == 1:
-                releasedate = movie.get('original air date')[0]
-            elif len(movie.get('original air date')) == 2:
-                releasedate = movie.get('original air date')[1]
+            if len(movie.get('original air date').split()) == 1:
+                releasedate = movie.get('original air date').split()[0]
+            elif len(movie.get('original air date').split()) == 2:
+                releasedate = movie.get('original air date').split()[1]
             else:
-                releasedate = movie.get('original air date')[2]
+                releasedate = movie.get('original air date').split()[2]
 
-            # this might need to grab images of a smaller set size because the
-            # full size ones are taking a second
-            coverurl = re.sub(
-                r"(S)(\w)(\d{3})(_CR)(\d)(,0,101,150_)", '', movie.get('cover url'))
+            coverurl = movie.get('cover url').replace("101","202").replace("150","300")
+            # coverurl = movie.get('cover url')
 
             e = {
                 "epindex": epindex,
