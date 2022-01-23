@@ -1,38 +1,118 @@
-.App {
-  text-align: center;
+.app {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header {
+  flex: 0 0;
+  min-width: 250px;
+  /* min-height: 100%; */
+  background-color: #ccc;
+  padding: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.poster {
+  width: 157.5px;
+  height: 210px;
+  border-radius: 10px;
+  object-fit: cover;
+  background-color: #bbb;
+  z-index: 2;
+  position: relative;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.episodelist {
+  flex: 1 0;
   display: flex;
   flex-direction: column;
+  gap: 20px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding-top: 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
-.App-link {
-  color: #61dafb;
+.episode {
+  flex: 0 0;
+  width: 1000px;
+  min-height: 250px;
+  /* padding:  */
+  background-color: #ccc;
+  position: relative;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.episodecontents{
+  z-index: 2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.episodetitle{
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.episodesubtitle{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.episodedesc{
+  font-size: 13px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.svg {
+  top:0.125em;
+  position: relative;
+}
+
+.tfoindex {
+  position: absolute;
+  width: 100%;
+  text-align: right;
+  right: 20px;
+  top: 10px;
+  font-size: 250px;
+  line-height: 240px;
+  color: #bbb;
+  overflow: hidden;
+  z-index: 1;
+  /* margin: -20px; */
+  /* margin-right: 20px;2 */
+}
+
+ul.links {
+  list-style-type: none;
+  font-size: 28px;
+  padding-left: 8px;
+}
+
+ul.links>li {
+  padding-bottom:16px;
+}
+
+.paddedspan {
+  padding-left: 8px;
+}
+
+.disabled {
+  filter: grayscale(100%);
+  opacity: 0.5;
+  user-select: none;
 }
