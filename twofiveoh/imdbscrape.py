@@ -96,7 +96,7 @@ for ep in list:
             "coverurl": "",
             "title": "upcoming bonus episode",
             "releasedate": "",
-            "rating": "",
+            "rating": "?",
             "plotoutline": ""
         }
     else:

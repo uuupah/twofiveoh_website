@@ -8,6 +8,7 @@ import { ReactComponent as InstaSVG} from "./assets/svg/insta.svg"
 import { ReactComponent as SpotifySVG} from "./assets/svg/spotify.svg"
 import { ReactComponent as AppleSVG} from "./assets/svg/apple.svg"
 import { ReactComponent as MailSVG} from "./assets/svg/mail.svg"
+import { ReactComponent as UnknownSVG} from "./assets/svg/unknown.svg"
 
 let epdata = require("./data/list.json");
 let sevenjantwenty = new Date(2020, 0, 7);
@@ -76,14 +77,20 @@ function Episode(props) {
   return (
     <div className="episode">
       <div className={"episodecontents" + String(new Date() > addDays(props.index * 7) ? "" : " disabled")} >
-        <img src={props.coverurl} className="poster" />
+        {props.coverurl !== "" ? (
+          <img src={props.coverurl} className="poster"/>
+        )
+        : (
+          <UnknownSVG className="poster"/>
+        )}
+        {/* <img src={props.coverurl != "" ? props.coverurl : "/assets/svg/unknown.svg"} className="poster" /> */}
         <div>
           <p className="episodetitle">
             {props.epindex} / {props.title}
           </p>
           <p className="episodesubtitle">
             {props.releasedate} <StarSVG height="1em" className="svg" />{" "}
-            {props.rating}/10{" "}
+            {props.rating !== NaN ? props.rating : "?"}/10{" "}
             <a href={"https://www.imdb.com/title/tt" + props.imdbid}>
               <IMDBSVG height="1em" className="svg" />
             </a>
