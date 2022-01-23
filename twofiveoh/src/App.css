@@ -96,3 +96,23 @@
   /* margin: -20px; */
   /* margin-right: 20px;2 */
 }
+
+ul.links {
+  list-style-type: none;
+  font-size: 28px;
+  padding-left: 8px;
+}
+
+ul.links>li {
+  padding-bottom:16px;
+}
+
+.paddedspan {
+  padding-left: 8px;
+}
+
+.disabled {
+  filter: grayscale(100%);
+  opacity: 0.5;
+  user-select: none;
+}
