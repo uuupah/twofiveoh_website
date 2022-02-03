@@ -74,6 +74,7 @@ function Episodelist(props) {
 
 // TODO make poster image fade in on load
 function Episode(props) {
+  console.log(props.index + ' isnan: ' + isNaN(props.rating))
   return (
     <div className="episode">
       <div className={"episodecontents" + String(new Date() > addDays(props.index * 7) ? "" : " disabled")} >
@@ -89,11 +90,10 @@ function Episode(props) {
             {props.epindex} / {props.title}
           </p>
           <p className="episodesubtitle">
-            {props.releasedate} <StarSVG height="1em" className="svg" />{" "}
-            {props.rating !== NaN ? props.rating : "?"}/10{" "}
-            <a href={"https://www.imdb.com/title/tt" + props.imdbid}>
-              <IMDBSVG height="1em" className="svg" />
-            </a>
+            {props.releasedate ? props.releasedate: ""}{" "}
+            <StarSVG height='1em' className={isNaN(props.rating) ? 'svg hidden': 'svg'} />{" "}
+            {!isNaN(props.rating) ? props.rating + "/10": ""}{" "}
+            <a href={"https://www.imdb.com/title/tt" + props.imdbid} className={!props.imdbid ? 'hidden' : ''}><IMDBSVG height="1em" className="svg" /></a>
           </p>
           <p className="episodedesc">{props.plotoutline}</p>
           <WhooshkaEmbed />

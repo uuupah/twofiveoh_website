@@ -22,3 +22,7 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+.hidden {
+  display: none !important;
+}

@@ -116,3 +116,7 @@ ul.links>li {
   opacity: 0.5;
   user-select: none;
 }
+
+a>img:hover {
+  opacity: 1;
+}
