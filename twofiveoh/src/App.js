@@ -8,7 +8,7 @@ import { ReactComponent as InstaSVG} from "./assets/svg/insta.svg"
 import { ReactComponent as SpotifySVG} from "./assets/svg/spotify.svg"
 import { ReactComponent as AppleSVG} from "./assets/svg/apple.svg"
 import { ReactComponent as MailSVG} from "./assets/svg/mail.svg"
-import { ReactComponent as UnknownSVG} from "./assets/svg/unknown.svg"
+import unknownPoster from "./assets/unknown.png"
 
 let epdata = require("./data/list.json");
 let sevenjantwenty = new Date(2020, 0, 7);
@@ -78,12 +78,9 @@ function Episode(props) {
   return (
     <div className="episode">
       <div className={"episodecontents" + String(new Date() > addDays(props.index * 7) ? "" : " disabled")} >
-        {props.coverurl !== "" ? (
-          <img src={props.coverurl} className="poster"/>
-        )
-        : (
-          <UnknownSVG className="poster"/>
-        )}
+
+          <img src={props.coverurl ? props.coverurl : unknownPoster} className="poster"/>
+
         {/* <img src={props.coverurl != "" ? props.coverurl : "/assets/svg/unknown.svg"} className="poster" /> */}
         <div>
           <p className="episodetitle">
