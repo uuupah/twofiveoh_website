@@ -8,6 +8,7 @@ import { ReactComponent as InstaSVG} from "./assets/svg/insta.svg"
 import { ReactComponent as SpotifySVG} from "./assets/svg/spotify.svg"
 import { ReactComponent as AppleSVG} from "./assets/svg/apple.svg"
 import { ReactComponent as MailSVG} from "./assets/svg/mail.svg"
+import { ReactComponent as UnknownSVG} from "./assets/svg/unknown.svg"
 
 let epdata = require("./data/list.json");
 let sevenjantwenty = new Date(2020, 0, 7);
@@ -73,20 +74,26 @@ function Episodelist(props) {
 
 // TODO make poster image fade in on load
 function Episode(props) {
+  console.log(props.index + ' isnan: ' + isNaN(props.rating))
   return (
     <div className="episode">
       <div className={"episodecontents" + String(new Date() > addDays(props.index * 7) ? "" : " disabled")} >
-        <img src={props.coverurl} className="poster" />
+        {props.coverurl !== "" ? (
+          <img src={props.coverurl} className="poster"/>
+        )
+        : (
+          <UnknownSVG className="poster"/>
+        )}
+        {/* <img src={props.coverurl != "" ? props.coverurl : "/assets/svg/unknown.svg"} className="poster" /> */}
         <div>
           <p className="episodetitle">
             {props.epindex} / {props.title}
           </p>
           <p className="episodesubtitle">
-            {props.releasedate} <StarSVG height="1em" className="svg" />{" "}
-            {props.rating}/10{" "}
-            <a href={"https://www.imdb.com/title/tt" + props.imdbid}>
-              <IMDBSVG height="1em" className="svg" />
-            </a>
+            {props.releasedate ? props.releasedate: ""}{" "}
+            <StarSVG height='1em' className={isNaN(props.rating) ? 'svg hidden': 'svg'} />{" "}
+            {!isNaN(props.rating) ? props.rating + "/10": ""}{" "}
+            <a href={"https://www.imdb.com/title/tt" + props.imdbid} className={!props.imdbid ? 'hidden' : ''}><IMDBSVG height="1em" className="svg" /></a>
           </p>
           <p className="episodedesc">{props.plotoutline}</p>
           <WhooshkaEmbed />
