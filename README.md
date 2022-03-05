@@ -4,9 +4,10 @@ indev version of the summary website for the twofiveoh podcast. compiled page is
 
 ## todo
 - [] frontend
-    - [] core layout
+    - [x] core layout
     - [] whooshka embeds
     - [] spotify / itunes links
+    - [] better breakpoints to improve narrow desktop experience
 - [] "backend"
     - [x] core data queried from imdb api
-    - [] extra episode data
+    - [x] extra episode data
