@@ -40,7 +40,7 @@
 }
 
 .poster {
-  width: 157.5px;
+  min-width: 157.5px;
   height: 210px;
   border-radius: 10px;
   object-fit: cover;
@@ -55,7 +55,7 @@
   flex-direction: column;
   gap: 20px;
   align-items: center;
-  padding-top: 20px;
+  padding-top: 10px;
   overflow-y: auto;
   overflow-x: hidden;
 }
@@ -95,6 +95,7 @@
   margin-bottom: 0px;
   /* width:100%; */
   min-width: 0;
+  white-space: nowrap;
 }
 
 .episodesubtitle{
@@ -111,7 +112,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 5;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   min-width: 0;
 }

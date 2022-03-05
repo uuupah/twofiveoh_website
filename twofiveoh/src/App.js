@@ -26,7 +26,7 @@ const ViewportProvider = ({ children }) => {
   const handleWindowResize = () => {
     setWidth(window.innerWidth);
     setHeight(window.innerHeight);
-  }
+  };
 
   React.useEffect(() => {
     window.addEventListener("resize", handleWindowResize);
@@ -50,7 +50,7 @@ const useViewport = () => {
      another Hook, remember, Hooks are composable! */
   const { width, height } = React.useContext(viewportContext);
   return { width, height };
-}
+};
 
 function addDays(days) {
   const copy = new Date(sevenjantwenty);
@@ -58,23 +58,23 @@ function addDays(days) {
   return copy;
 }
 
-function WhooshkaEmbed(props) {
-  return (
-    <div>
-      <div
-        className="whooshkaa-widget-player"
-        data-episode-id="543356"
-        data-theme="light"
-        data-height="75"
-        data-button-color="#333333"
-        data-background-color="#CCCCCC"
-        data-description-color="#333333"
-        data-waveform-base-color="#999999"
-        data-waveform-progress-color="#333333"
-      ></div>
-    </div>
-  );
-}
+// function WhooshkaEmbed(props) {
+//   return (
+//     <div>
+//       <div
+//         className="whooshkaa-widget-player"
+//         data-episode-id="543356"
+//         data-theme="light"
+//         data-height="75"
+//         data-button-color="#333333"
+//         data-background-color="#CCCCCC"
+//         data-description-color="#333333"
+//         data-waveform-base-color="#999999"
+//         data-waveform-progress-color="#333333"
+//       ></div>
+//     </div>
+//   );
+// }
 
 function HeaderDesktop(props) {
   return (
@@ -153,6 +153,9 @@ function Episodelist(props) {
 
 // TODO make poster image fade in on load
 function Episode(props) {
+  const { width } = useViewport();
+  const breakpoint = 576;
+
   return (
     <div className="episode">
       <div
@@ -168,9 +171,15 @@ function Episode(props) {
 
         {/* <img src={props.coverurl != "" ? props.coverurl : "/assets/svg/unknown.svg"} className="poster" /> */}
         <div className="episodedesccontents">
-          <Marquee gradient={false} className="episodetitle">
-            {props.epindex} / {props.title.trim()}&nbsp;
-          </Marquee>
+          <p className={width > breakpoint ? 'hidden': 'episodetitle'}>
+            {props.epindex} / 
+            <Marquee gradient={false} play={width <= breakpoint}>
+              {props.title.trim()}&nbsp;
+            </Marquee>
+          </p>
+          <p className={width <= breakpoint ? 'hidden': 'episodetitle'}>
+            {props.epindex} / {props.title.trim()}
+          </p>
           <p className="episodesubtitle">
             {props.releasedate ? props.releasedate : ""}{" "}
             <StarSVG
@@ -198,22 +207,20 @@ const ContentWrapper = () => {
   const { width } = useViewport();
   const breakpoint = 576;
 
-  console.log(width)
+  console.log(width);
 
-  return(
-
+  return (
     <div
-    className="app"
-    style={{ flexDirection: + width > breakpoint ? "row" : "column" }}
-  >
-    {width > breakpoint ? <HeaderDesktop /> : <HeaderMobile />}
-    <Episodelist />
-  </div>
-  )
-}
+      className="app"
+      style={{ flexDirection: +width > breakpoint ? "row" : "column" }}
+    >
+      {width > breakpoint ? <HeaderDesktop /> : <HeaderMobile />}
+      <Episodelist />
+    </div>
+  );
+};
 
 const App = () => {
-
   return (
     <ViewportProvider>
       <ContentWrapper />
