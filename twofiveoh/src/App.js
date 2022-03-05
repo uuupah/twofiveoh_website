@@ -4,11 +4,12 @@ import React from "react";
 import { ReactComponent as TfoLogo } from "./assets/svg/logo2.svg";
 import { ReactComponent as StarSVG } from "./assets/svg/star.svg";
 import { ReactComponent as IMDBSVG } from "./assets/svg/imdb.svg";
-import { ReactComponent as InstaSVG} from "./assets/svg/insta.svg"
-import { ReactComponent as SpotifySVG} from "./assets/svg/spotify.svg"
-import { ReactComponent as AppleSVG} from "./assets/svg/apple.svg"
-import { ReactComponent as MailSVG} from "./assets/svg/mail.svg"
-import unknownPoster from "./assets/unknown.png"
+import { ReactComponent as InstaSVG} from "./assets/svg/insta.svg";
+import { ReactComponent as SpotifySVG} from "./assets/svg/spotify.svg";
+import { ReactComponent as AppleSVG} from "./assets/svg/apple.svg";
+import { ReactComponent as MailSVG} from "./assets/svg/mail.svg";
+import unknownPoster from "./assets/unknown.png";
+import Marquee from "react-fast-marquee";
 
 let epdata = require("./data/list.json");
 let sevenjantwenty = new Date(2020, 0, 7);
@@ -38,9 +39,9 @@ function WhooshkaEmbed(props) {
   );
 }
 
-function Header(props) {
+function HeaderDesktop(props) {
   return (
-    <div className="header">
+    <div className="headerdesktop">
       <TfoLogo width="250px" />
       <ul className="links">
         <li><a href="https://www.instagram.com/twofiveohpod/"><InstaSVG height="1em" className="svg"/> <span className="paddedspan">instagram</span></a></li>
@@ -50,6 +51,19 @@ function Header(props) {
       </ul>
     </div>
   );
+}
+
+function HeaderMobile(props) {
+  var iconwidth = '40px'
+  return (
+    <div className="headermobile" >
+        <a href="https://www.instagram.com/twofiveohpod/"><InstaSVG height={iconwidth} className="svg headermobilespacing"/></a>
+        <a href="https://podcasts.apple.com/kz/podcast/twofiveoh/id1493890285"><AppleSVG height={iconwidth} className="svg headermobilespacing"/></a>
+        <TfoLogo width="100px" />
+        <a href="https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM"><SpotifySVG height={iconwidth} className="svg headermobilespacing"/></a>
+        <a href="mailto:twofiveohpod@gmail.com"><MailSVG height={iconwidth} className="svg headermobilespacing"/></a>
+    </div>
+  )
 }
 
 function Episodelist(props) {
@@ -79,13 +93,13 @@ function Episode(props) {
     <div className="episode">
       <div className={"episodecontents" + String(new Date() > addDays(props.index * 7) ? "" : " disabled")} >
 
-          <img src={props.coverurl ? props.coverurl : unknownPoster} className="poster"/>
+        <img src={props.coverurl ? props.coverurl : unknownPoster} className="poster"/>
 
         {/* <img src={props.coverurl != "" ? props.coverurl : "/assets/svg/unknown.svg"} className="poster" /> */}
-        <div>
-          <p className="episodetitle">
-            {props.epindex} / {props.title}
-          </p>
+        <div className="episodedesccontents">
+          <Marquee gradient={false}  className="episodetitle">
+            {props.epindex} / {props.title.trim()}&nbsp;
+          </Marquee>
           <p className="episodesubtitle">
             {props.releasedate ? props.releasedate: ""}{" "}
             <StarSVG height='1em' className={isNaN(props.rating) ? 'svg hidden': 'svg'} />{" "}
@@ -93,7 +107,7 @@ function Episode(props) {
             <a href={"https://www.imdb.com/title/tt" + props.imdbid} className={!props.imdbid ? 'hidden' : ''}><IMDBSVG height="1em" className="svg" /></a>
           </p>
           <p className="episodedesc">{props.plotoutline}</p>
-          <WhooshkaEmbed />
+          {/* <WhooshkaEmbed /> */}
         </div>
       </div>
       <span className="tfoindex">{props.tfoindex}</span>
@@ -104,8 +118,9 @@ function Episode(props) {
 class App extends React.Component {
   render() {
     return (
-      <div className="app">
-        <Header />
+      <div className="appmobile">
+        {/* <HeaderDesktop /> */}
+        <HeaderMobile />
         <Episodelist />
       </div>
     );
