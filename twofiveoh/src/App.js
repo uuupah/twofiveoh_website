@@ -14,15 +14,43 @@ import Marquee from "react-fast-marquee";
 let epdata = require("./data/list.json");
 let sevenjantwenty = new Date(2020, 0, 7);
 
-const useViewPort = () => {
+// viewport hook from https://blog.logrocket.com/developing-responsive-layouts-with-react-hooks/
+const viewportContext = React.createContext({});
+
+const ViewportProvider = ({ children }) => {
+  // This is the exact same logic that we previously had in our hook
+
   const [width, setWidth] = React.useState(window.innerWidth);
+  const [height, setHeight] = React.useState(window.innerHeight);
+
+  const handleWindowResize = () => {
+    setWidth(window.innerWidth);
+    setHeight(window.innerHeight);
+  }
+
   React.useEffect(() => {
-    const handleWindowResize = () => setWidth(window.innerWidth);
     window.addEventListener("resize", handleWindowResize);
     return () => window.removeEventListener("resize", handleWindowResize);
   }, []);
-  return { width };
+
+  /* Now we are dealing with a context instead of a Hook, so instead
+     of returning the width and height we store the values in the
+     value of the Provider */
+  return (
+    <viewportContext.Provider value={{ width, height }}>
+      {children}
+    </viewportContext.Provider>
+  );
 };
+
+/* Rewrite the "useViewport" hook to pull the width and height values
+   out of the context instead of calculating them itself */
+const useViewport = () => {
+  /* We can use the "useContext" Hook to acccess a context from within
+     another Hook, remember, Hooks are composable! */
+  const { width, height } = React.useContext(viewportContext);
+  return { width, height };
+}
 
 function addDays(days) {
   const copy = new Date(sevenjantwenty);
@@ -125,7 +153,6 @@ function Episodelist(props) {
 
 // TODO make poster image fade in on load
 function Episode(props) {
-  console.log(props.index + " isnan: " + isNaN(props.rating));
   return (
     <div className="episode">
       <div
@@ -167,15 +194,30 @@ function Episode(props) {
   );
 }
 
-const App = () => {
-  const { width } = useViewPort();
+const ContentWrapper = () => {
+  const { width } = useViewport();
   const breakpoint = 576;
 
+  console.log(width)
+
+  return(
+
+    <div
+    className="app"
+    style={{ flexDirection: + width > breakpoint ? "row" : "column" }}
+  >
+    {width > breakpoint ? <HeaderDesktop /> : <HeaderMobile />}
+    <Episodelist />
+  </div>
+  )
+}
+
+const App = () => {
+
   return (
-    <div className="app" style={{flexDirection: + width > breakpoint ? 'row' : 'column'}}>
-      {width > breakpoint ? <HeaderDesktop /> : <HeaderMobile />}
-      <Episodelist />
-    </div>
+    <ViewportProvider>
+      <ContentWrapper />
+    </ViewportProvider>
   );
 };
 
