@@ -168,13 +168,13 @@ function Episode(props) {
           src={props.coverurl ? props.coverurl : unknownPoster}
           className="poster"
         />
-
-        {/* <img src={props.coverurl != "" ? props.coverurl : "/assets/svg/unknown.svg"} className="poster" /> */}
         <div className="episodedesccontents">
+          {/* this is so fucking bad. i also kinda hate how the marquees look 
+          but the amount of control is pretty limited */}
           <p className={width > breakpoint ? 'hidden': 'episodetitle'}>
             {props.epindex} / 
             <Marquee gradient={false} play={width <= breakpoint}>
-              {props.title.trim()}&nbsp;
+              {props.title.trim()} /&nbsp;
             </Marquee>
           </p>
           <p className={width <= breakpoint ? 'hidden': 'episodetitle'}>
