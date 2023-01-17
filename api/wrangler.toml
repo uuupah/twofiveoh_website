@@ -1,0 +1,14 @@
+name = "twofiveoh-api"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2023-01-16"
+
+[vars]
+# necessary secrets are:
+# - SPOTIFY_CLIENT_ID
+# - SPOTIFY_CLIENT_SECRET
+# Run `echo <VALUE> | wrangler secret put <NAME>` for each of these
