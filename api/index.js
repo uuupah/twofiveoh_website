@@ -47,6 +47,7 @@ async function handleRequest(request) {
   var { access_token } = await getAccessToken();
 
   var episodes = [];
+  var out = [];
 
   for (let i = 0; i < 7; i++) {
     var response = await fetch(spotifyEpisodesEndpoint + String(50 * i), {
@@ -60,7 +61,18 @@ async function handleRequest(request) {
 
     episodes = episodes.concat(contents)
   }
-  return new Response(JSON.stringify(episodes), response);
+
+  episodes.forEach(episode => {
+    out = out.concat({
+      title: episode.name,
+      description: episode.description,
+      date: episode.release_date,
+      image: episode.images[0].url,
+      is_playable: episode.is_playable,
+    })
+  });
+
+  return new Response(JSON.stringify(out), response);
 }
 
 // https://github.com/BehnH/spotify-workers/blob/main/src/utils/spotify.js
