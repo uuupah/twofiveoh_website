@@ -72,6 +72,8 @@ async function handleRequest(request) {
     })
   });
 
+  out.reverse();
+
   return new Response(JSON.stringify(out), response);
 }
 
